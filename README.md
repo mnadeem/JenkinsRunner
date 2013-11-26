@@ -6,10 +6,15 @@ DIRECTORY DETAILS
 -----------------
 
 data ==> contains files required for jenkins, configuration, jobs etc
+
 logs ==> this where jenkins will spit out logs
+
 conf ==> configuration that should be done to jenkins is driven through files in this folder
+
 lib ==> this folder contains wrapper.jar and jenkins.war
+
 bin ==> binary executables are present here, based on you environment you have to execute one of the files in this directory
+
 
 
 CONFIGURATION
