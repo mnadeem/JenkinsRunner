@@ -45,9 +45,9 @@ Jenkins Runner is based on [Java Service Wrapper][jswId]
 
 #### How do I change the port? ####
 
-__Modify the JenkinsRunnder/conf/wrapper.conf file (line number 31) as follows__
+_Modify the JenkinsRunnder/conf/wrapper.conf file (line number 31) as follows_
 
-_wrapper.app.parameter.2=--httpPort=8070_
+	wrapper.app.parameter.2=--httpPort=8070
 
 
 
