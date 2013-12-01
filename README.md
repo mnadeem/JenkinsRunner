@@ -1,3 +1,5 @@
+
+# JENKINS RUNNER #
 After downloading the zip file copy your jenkins war file to JenkinsRunnder/lib
 based on your environment start the appropriate script, you are done.
 
@@ -25,6 +27,6 @@ based on your environment start the appropriate script, you are done.
 
 __Modify the JenkinsRunnder/conf/wrapper.conf file (line number 31) as follows__
 
-__wrapper.app.parameter.2=--httpPort=8070__
+_wrapper.app.parameter.2=--httpPort=8070_
 
 ---
