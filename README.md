@@ -23,8 +23,8 @@ based on your environment start the appropriate script, you are done.
 
 ##### How do I change the port? #####
 
-Modify the JenkinsRunnder/conf/wrapper.conf file (line number 31) as follows
+_Modify the JenkinsRunnder/conf/wrapper.conf file (line number 31) as follows_
 
-wrapper.app.parameter.2=--httpPort=8070
+_wrapper.app.parameter.2=--httpPort=8070_
 
 ---
