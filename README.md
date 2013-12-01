@@ -8,15 +8,15 @@ based on your environment start the appropriate script, you are done.
 ### DIRECTORY DETAILS ###
 
 
-* data ==> contains files required for jenkins, configuration, jobs etc
+* __data__ ==> contains files required for jenkins, configuration, jobs etc
 
-* logs ==> this where jenkins will spit out logs
+* __logs__ ==> this where jenkins will spit out logs
 
-* conf ==> configuration that should be done to jenkins is driven through files in this folder
+* __conf__ ==> configuration that should be done to jenkins is driven through files in this folder
 
-* lib ==> this folder contains wrapper.jar and jenkins.war, and any other jars you want to make available to classpath
+* __lib__ ==> this folder contains __wrapper.jar__ and __jenkins.war__, and any other jars you want to make available to classpath
 
-* bin ==> binary executables are present here, based on you environment you have to execute one of the files in this directory
+* __bin__ ==> binary executables are present here, based on you environment you have to execute one of the files in this directory
 
 ---
 
