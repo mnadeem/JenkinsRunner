@@ -19,7 +19,7 @@ Jenkins Runner is based on [Java Service Wrapper][jswId]
 * you can added other jar files easily in the class path
 * _application parameters_ and _jmv parameters_ can configured very easily
 
----
+
 
 ### DIRECTORY DETAILS ###
 
@@ -36,7 +36,7 @@ Jenkins Runner is based on [Java Service Wrapper][jswId]
 
 * __bin__ ==> binary executables are present here, based on you environment you have to execute one of the files in this directory
 
----
+
 
 ### FAQ ###
 
