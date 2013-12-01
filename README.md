@@ -4,6 +4,7 @@ After downloading the zip file copy your jenkins war file to JenkinsRunnder/lib
 based on your environment start the appropriate script, you are done.
 
 Jenkins Runner is based on [Java Service Wrapper][jswId]
+![Java Service Wrapper][jswImageId]
 
 ---
 
@@ -34,4 +35,5 @@ _wrapper.app.parameter.2=--httpPort=8070_
 ---
 
 
-  [jswId]: http://wrapper.tanukisoftware.com/  "Title"
+  [jswId]: http://wrapper.tanukisoftware.com/  "Java Service Wrapper"
+  [jswImageId]: http://wrapper.static.tanukisoftware.co.jp/images/jsw-logo.jpg "Java Service Wrapper"
