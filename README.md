@@ -6,9 +6,10 @@ based on your environment start the appropriate script, you are done.
 Jenkins Runner is based on [Java Service Wrapper][jswId]
 ![Java Service Wrapper][jswImageId]
 
----
 
 ### FEATURES ###
+
+---
 
 * Pre bundled script which would allow you to manage jenkins instance in different environments seamlessly
 * Configurations can be changed/added very easily
@@ -21,6 +22,8 @@ Jenkins Runner is based on [Java Service Wrapper][jswId]
 ---
 
 ### DIRECTORY DETAILS ###
+
+---
 
 
 * __data__ ==> contains files required for jenkins, configuration, jobs etc
@@ -37,14 +40,16 @@ Jenkins Runner is based on [Java Service Wrapper][jswId]
 
 ### FAQ ###
 
+---
 
-##### How do I change the port? #####
+
+#### How do I change the port? ####
 
 __Modify the JenkinsRunnder/conf/wrapper.conf file (line number 31) as follows__
 
 _wrapper.app.parameter.2=--httpPort=8070_
 
----
+
 
 
   [jswId]: http://wrapper.tanukisoftware.com/  "Java Service Wrapper"
