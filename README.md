@@ -52,6 +52,6 @@ _Modify the JenkinsRunnder/conf/wrapper.conf file (line number 31) as follows_
 
 
 
-  [runnerImageId]: https://raw.github.com/mnadeem/images/master/jenkins_logo.png  "Jenkins Runner"
+  [runnerImageId]: http://raw.github.com/mnadeem/JenkinsRunner/master/jenkins_logo.png  "Jenkins Runner"
   [jswId]: http://wrapper.tanukisoftware.com/  "Java Service Wrapper"
   [jswImageId]: http://wrapper.static.tanukisoftware.co.jp/images/jsw-logo.jpg "Java Service Wrapper"
